@@ -1,0 +1,18 @@
+table{
+    background: ##FFD700;
+    border: 1px solid;
+}
+table th{
+    border: 1px solid;
+    padding: 5px;
+    background: ##FFD700;
+    font-family: sans-seif;
+}
+table td{
+    border: 1px solid;
+    padding: 5px;
+    text-align: center;
+    background: ##FFD700;
+    font-weight: bold;
+    font-family: sans-serif;
+}
